@@ -1,0 +1,27 @@
+# Backend
+backend/.env
+backend/db.sqlite3
+backend/db.sqlite3-journal
+backend/venv/
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.pyc
+
+# Frontend
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/node_modules/
+frontend/.env*.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
